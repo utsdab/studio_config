@@ -1,0 +1,10 @@
+# Shotgun Pipeline Toolkit configuration file
+# This file was automatically created by setup_project
+# This file reflects the paths in the primary pipeline
+# configuration defined for this project.
+
+Windows: '\\work\shotgun\toolkit_config\dev_toolkit_config'
+Darwin: '/Volumes/dabrender/work/shotgun/toolkit_configs/dev_toolkit_config'
+Linux: '/Volumes/dabrender/work/shotgun/toolkit_configs/dev_toolkit_config'
+
+# End of file.
