@@ -33,7 +33,7 @@ maya_linux: 'maya2017'
 # Nuke
 #
 nuke_mac: '/Applications/Nuke11.0v2/Nuke11.0v2.app'
-nuke_windows: 'C:\Program Files\Nuke11.0v1\Nuke11.0.exe'
+nuke_windows: 'C:\Program Files\Nuke11.0v2\Nuke11.0.exe'
 nuke_linux: Nuke11.0
 
 
@@ -75,9 +75,9 @@ photoshop_win: 'C:\Program Files\Adobe\Adobe Photoshop CC 2017\Photoshop.exe'
 #
 # Hiero
 #
-hiero_mac: /Applications/Nuke10.5v5/Hiero10.5v5.app
-hiero_win: 'C:\Program Files\Nuke10.5v5\Nuke10.0.exe'
-hiero_linux: Nuke10.0
+hiero_mac: /Applications/Nuke11.0v2/Hiero11.0v2.app
+hiero_win: 'C:\Program Files\Nuke11.0v2\Nuke11.0.exe'
+hiero_linux: Nuke11.0
 
 
 #
