@@ -148,6 +148,7 @@ paths:
     shot_root: shots/{Episode}/{Sequence}/{Shot}/{Step}
     asset_root: assets/{sg_asset_type}/{Asset}/{Step}
     sequence_root: shots/{Episode}/{Sequence}
+    episode_root: shots/{Episode}
 
 
     ##########################################################################################
