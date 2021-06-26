@@ -7,13 +7,13 @@ primary:
   linux_path: /Volumes/dabrender/work/shotgun_work
   mac_path: /Volumes/dabrender/work/shotgun_work
   shotgun_storage_id: 75
-  windows_path: null
+  windows_path: F:\WORK\UTS_Shotgun\projects
 
 home:
   default: false
   linux_path: null
   mac_path: /Users/Shared/Shotgun/projects
   shotgun_storage_id: 2
-  windows_path: null
+  windows_path: F:\WORK\UTS_Shotgun\projects
 
 # End of file.
