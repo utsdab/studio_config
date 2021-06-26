@@ -1,0 +1,34 @@
+# Copyright (c) 2015 Shotgun Software Inc.
+#
+# CONFIDENTIAL AND PROPRIETARY
+#
+# This work is provided "AS IS" and subject to the Shotgun Pipeline Toolkit
+# Source Code License included in this distribution package. See LICENSE.
+# By accessing, using, copying or modifying this work you indicate your
+# agreement to the Shotgun Pipeline Toolkit Source Code License. All rights
+# not expressly granted therein are reserved by Shotgun Software Inc.
+
+
+<a name="the type of dynamic content"></a>
+# the type of dynamic content
+type: "shotgun_entity"
+
+<a name="the shotgun field to use for the folder name"></a>
+# the shotgun field to use for the folder name
+name: "code"
+
+<a name="the shotgun entity type to connect to"></a>
+# the shotgun entity type to connect to
+entity_type: "Episode"
+
+<a name="shotgun filters to apply when getting the list of items"></a>
+# shotgun filters to apply when getting the list of items
+<a name="this should be a list of dicts, each dict containing "></a>
+# this should be a list of dicts, each dict containing
+<a name="three fields: path, relation and values"></a>
+# three fields: path, relation and values
+<a name="(this is std shotgun API syntax)"></a>
+# (this is std shotgun API syntax)
+<a name="any values starting with $ are resolved into path objects"></a>
+# any values starting with $ are resolved into path objects
+filters: [ { "path": "project", "relation": "is", "values": [ "$project" ] } ]
